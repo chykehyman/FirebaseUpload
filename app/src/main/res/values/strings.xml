@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseUpload</string>
+    <string name="choose_file">choose</string>
+    <string name="upload_file">Upload File</string>
+    <string name="preview_image">preview image</string>
+    <string name="uploading_text">Your File is Uploading</string>
+    <string name="file_name">File Name:</string>
+    <string name="pause_upload">Pause Upload</string>
+    <string name="resume_upload">Resume Upload</string>
+    <string name="sucess_upload_text">File Upload Completed</string>
+</resources>
